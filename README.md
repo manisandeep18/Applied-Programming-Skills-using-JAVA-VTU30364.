@@ -8,6 +8,7 @@
 | [0496-next-greater-element-i](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0977-squares-of-a-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,12 +32,14 @@
 | [0496-next-greater-element-i](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
