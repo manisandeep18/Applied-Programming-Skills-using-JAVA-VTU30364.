@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -130,4 +131,20 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
