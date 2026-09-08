@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
 |  |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
