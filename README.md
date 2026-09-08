@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0901-online-stock-span) |
@@ -45,6 +46,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/manisandeep18/Applied-Programming-Skills-using-JAVA-VTU30364./tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
